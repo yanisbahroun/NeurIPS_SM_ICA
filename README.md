@@ -1,5 +1,5 @@
-# Code attached to NeurIPS paper 2021: ''A Normative and Biologically Plausible Algorithm for Independent Component Analysis'', by Yanis Bahroun, Dmitri B. Chklovskii and Anirvan M. Sengupta
-# Code from Yanis Bahroun.
+## Code attached to NeurIPS paper 2021: ''A Normative and Biologically Plausible Algorithm for Independent Component Analysis'', by Yanis Bahroun, Dmitri B. Chklovskii and Anirvan M. Sengupta
+## Code from Yanis Bahroun.
 
 
 Jupyter notebooks for reproducing the experiments: NeurIPS_Fig_1A_procedure.ipynb,NeurIPS_Fig_2A_synth.ipynb,NeurIPS_Fig_2B_audio.ipynb, NeurIPS_Fig_2C_image.ipynb
