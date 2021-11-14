@@ -1,3 +1,6 @@
+Demo code for NeurIPS 2021 Spotlight Paper.
+
+
 
 # Code attached to NeurIPS paper 2021: ''A Normative and Biologically Plausible Algorithm for Independent Component Analysis'', by Yanis Bahroun, Dmitri B. Chklovskii and Anirvan M. Sengupta
 # Code from Yanis Bahroun.
